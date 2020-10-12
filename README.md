@@ -10,8 +10,8 @@ The project implements front end automation of digital bank with testCafe. The s
 
 1. Clone Repo and install dependencies
 ```
-  git clone 
-  cd 
+  git clone https://github.com/Pranoy-Prabhakar/db-fe-automation.git
+  cd db-fe-automation-master
   npm install
 ```
 2. Install testcafe globally (skip if already installed)
