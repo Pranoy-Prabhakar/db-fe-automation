@@ -32,5 +32,6 @@ The project implements front end automation of digital bank with testCafe. The s
 4. Execute tests
 ```
   testcafe chrome .\tests\ --skip-js-errors
+````
 
  <mark>while running make sure that you are not in any vpn as it will block the proxy.</mark>
