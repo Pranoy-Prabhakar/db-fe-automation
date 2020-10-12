@@ -1,0 +1,14 @@
+{
+  "name": "db-fe-automation",
+  "version": "1.0.0",
+  "description": "This Projects implements FE automation for DB using testCafe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranoy Prabhakar",
+  "license": "ISC",
+  "devDependencies": {
+    "testcafe": "^1.8.4"
+  }
+}
