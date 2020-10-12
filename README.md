@@ -20,7 +20,7 @@ The project implements front end automation of digital bank with testCafe. The s
  ```
 3. Test Data setup
 
-#### Kinldy update the test data file using below data for successfull registration of user 
+#### Kindly update the test data file using below data for successfull registration of user 
 | SSN | Email Id | status |
 | ------ | --- | ----- |
 | 157824536    | Henry_Quinton3167@qater.org   | Not Used    |
@@ -31,4 +31,6 @@ The project implements front end automation of digital bank with testCafe. The s
 | 287625059    | Enoch_Durrant7221@hourpy.biz   | Not Used     |
 4. Execute tests
 ```
-  testcafe chrome .\tests\
+  testcafe chrome .\tests\ --skip-js-errors
+
+ <mark>while running make sure that you are not in any vpn as it will block the proxy.</mark>
